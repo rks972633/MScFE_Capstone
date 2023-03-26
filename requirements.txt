@@ -1,0 +1,11 @@
+pip install os-sys
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install xbbg
+pip install scipy
+pip install datetime
+pip install hurst
+pip install scikit-learn
+pip install keras
+pip install statsmodels
